@@ -1,0 +1,5 @@
+{
+  "name": "TACTO: The Tic Tac Toe Game",
+  "description": "A modern, mobile-first Tic Tac Toe game with a cool UI and smooth animations. Play against a friend or a simple AI.",
+  "requestFramePermissions": []
+}
